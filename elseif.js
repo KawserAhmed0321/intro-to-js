@@ -11,3 +11,6 @@ else if (x < 70 && x >= 60) {
 else if (x < 60 && x >= 50) {
     console.log("f");
 }
+else {
+    console.log('fail');
+}

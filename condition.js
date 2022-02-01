@@ -11,3 +11,4 @@ if (price == myBugeted) {
 else {
     console.log("Buy");
 }
+
