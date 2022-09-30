@@ -17,3 +17,4 @@ console.log(eggPrice);
 console.log(onnionPrice);
 console.log(eggPriceNum);
 console.log(onnionPriceNum);
+console.log(eggPriceNum + onnionPriceNum);
